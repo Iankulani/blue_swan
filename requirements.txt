@@ -1,0 +1,56 @@
+# Core Requirements
+requests>=2.31.0
+psutil>=5.9.5
+cryptography>=39.0.0
+sqlite3
+
+# Network & Security
+scapy>=2.5.0
+dnspython>=2.4.0
+python-whois>=0.8.0
+paramiko>=3.0.0
+
+# Web Framework
+Flask>=2.3.0
+Flask-SocketIO>=5.3.0
+Flask-CORS>=4.0.0
+flask-socketio>=5.3.0
+python-socketio>=5.9.0
+
+# Platform Bots
+discord.py>=2.3.0
+slack-sdk>=3.21.0
+telethon>=1.28.0
+pywhatkit>=5.4.0
+
+# Keylogger
+pynput>=1.7.6
+pygetwindow>=0.0.9
+pyautogui>=0.9.53
+pyperclip>=1.8.2
+
+# Graphics & Reports
+matplotlib>=3.7.0
+seaborn>=0.12.0
+numpy>=1.24.0
+reportlab>=4.0.0
+
+# Web Scraping & Parsing
+beautifulsoup4>=4.12.0
+lxml>=4.9.0
+
+# QR Code & URL Shortening
+qrcode>=7.4.0
+pyshorteners>=1.0.1
+
+# Google APIs
+google-api-python-client>=2.86.0
+google-auth-httplib2>=0.1.0
+google-auth-oauthlib>=1.0.0
+httplib2>=0.22.0
+
+# Additional Utilities
+colorama>=0.4.6
+tqdm>=4.65.0
+python-dotenv>=1.0.0
+PyYAML>=6.0

@@ -1,0 +1,70 @@
+version: '3.8'
+
+services:
+  blueswan:
+    build: .
+    container_name: blue_swan
+    restart: unless-stopped
+    ports:
+      - "5000:5000"      # Web Dashboard
+      - "8080:8080"      # Phishing Server
+      - "8000-8010:8000-8010"  # Domain Hosting
+      - "2222:22"        # SSH (mapped to avoid conflict)
+    volumes:
+      - ./data:/app/.blue_swan
+      - ./reports:/app/blue_swan_reports
+      - ./logs:/app/logs
+    environment:
+      - PYTHONUNBUFFERED=1
+      - BLUE_SWAN_ENV=production
+      - FLASK_SECRET_KEY=${FLASK_SECRET_KEY:-change_me_in_production}
+      - WEB_PORT=5000
+      - WEB_HOST=0.0.0.0
+    networks:
+      - blueswan_network
+    cap_add:
+      - NET_ADMIN
+      - NET_RAW
+      - SYS_ADMIN
+    security_opt:
+      - apparmor:unconfined
+    deploy:
+      resources:
+        limits:
+          cpus: '2'
+          memory: 2G
+        reservations:
+          cpus: '1'
+          memory: 1G
+
+  # Optional: Redis for caching
+  redis:
+    image: redis:7-alpine
+    container_name: blueswan_redis
+    restart: unless-stopped
+    ports:
+      - "6379:6379"
+    volumes:
+      - ./redis_data:/data
+    networks:
+      - blueswan_network
+
+  # Optional: PostgreSQL for production
+  postgres:
+    image: postgres:15-alpine
+    container_name: blueswan_db
+    restart: unless-stopped
+    environment:
+      - POSTGRES_USER=blueswan
+      - POSTGRES_PASSWORD=${DB_PASSWORD:-blue_swan_2024}
+      - POSTGRES_DB=blueswan
+    volumes:
+      - ./postgres_data:/var/lib/postgresql/data
+    ports:
+      - "5432:5432"
+    networks:
+      - blueswan_network
+
+networks:
+  blueswan_network:
+    driver: bridge
