@@ -1,6 +1,6 @@
 # blue_swan
 
-<img width="1024" height="1024" alt="blueswan" src="https://github.com/user-attachments/assets/62c1daf9-1a4e-41c9-967f-9504d660a4a3" />
+<img width="824" height="624" alt="blueswan" src="https://github.com/user-attachments/assets/62c1daf9-1a4e-41c9-967f-9504d660a4a3" />
 
 
 Blue Swan is an enterprise-grade cybersecurity platform designed to help organizations monitor, protect, and manage their digital infrastructure from a single unified interface. The platform enables authorized security administrators to remotely perform security operations, monitor infrastructure, investigate incidents, automate defensive workflows, and manage enterprise assets through secure communication channels including Discord, Slack, WhatsApp, Google Chat, iMessage, and a dedicated web application.
