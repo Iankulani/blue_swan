@@ -6,68 +6,69 @@ Built for Security Operations Centers (SOC), Managed Security Service Providers 
 
 Blue Swan provides real-time visibility across endpoints, servers, cloud environments, virtual machines, containers, identity providers, applications, and network infrastructure. Security professionals can investigate alerts, collect forensic evidence, review system health, monitor network performance, and coordinate incident response using a unified dashboard.
 
-Core Features
-Real-time endpoint monitoring
-Network monitoring and diagnostics
-Asset inventory management
-Threat detection and alerting
-Security event correlation
-Incident response workflows
-Vulnerability assessment integration
-Security policy management
-Role-Based Access Control (RBAC)
-Multi-factor authentication
-Secure remote administration
-Comprehensive audit logging
-Automated defensive playbooks
-Compliance reporting
-Dashboard analytics
-Cloud security monitoring
-Firewall management integrations
-Identity and access monitoring
-Patch management integration
-Certificate monitoring
-Backup status monitoring
-Security awareness campaign management
-Authorized phishing simulation for employee training
-Secure notification system
-API for enterprise integrations
-Supported Communication Platforms
+# Core Features
 
-Blue Swan allows authorized administrators to securely interact with the platform through:
+* Real-time endpoint monitoring
+* Network monitoring and diagnostics
+* Asset inventory management
+* Threat detection and alerting
+* Security event correlation
+* Incident response workflows
+* Vulnerability assessment integration
+* Security policy management
+* Role-Based Access Control (RBAC)
+* Multi-factor authentication
+* Secure remote administration
+* Comprehensive audit logging
+* Automated defensive playbooks
+* Compliance reporting
+* Dashboard analytics
+* Cloud security monitoring
+* Firewall management integrations
+* Identity and access monitoring
+* Patch management integration
+* Certificate monitoring
+* Backup status monitoring
+* Security awareness campaign management
+* Authorized phishing simulation for employee training
+* Secure notification system
+* API for enterprise integrations
+* Supported Communication Platforms
 
-Discord
-Slack
-WhatsApp
-Google Chat
-iMessage
-Secure Web Application
+# Blue Swan allows authorized administrators to securely interact with the platform through:
+
+* Discord
+* Slack
+* WhatsApp
+* Google Chat
+* iMessage
+* Secure Web Application
 
 Every command requires authentication, authorization, and is recorded in immutable audit logs.
 
 Defensive Administrative Commands
 
-Blue Swan supports authorized administrative operations such as:
+# Blue Swan supports authorized administrative operations such as:
 
-View endpoint health
-Check CPU usage
-View memory utilization
-Monitor disk capacity
-Review security alerts
-View system logs
-Monitor network availability
-Check firewall status
-Restart approved services
-Generate compliance reports
-Review patch status
-List managed assets
-View endpoint protection status
-Monitor cloud resources
-Review authentication events
-Generate security dashboards
-Network Operations
+* View endpoint health
+* Check CPU usage
+* View memory utilization
+* Monitor disk capacity
+* Review security alerts
+* View system logs
+* Monitor network availability
+* Check firewall status
+* Restart approved services
+* Generate compliance reports
+* Review patch status
+* List managed assets
+* View endpoint protection status
+* Monitor cloud resources
+* Review authentication events
+* Generate security dashboards
+* Network Operations
 
-Blue Swan enables administrators to:
+# Blue Swan enables administrators to:
 
 Monitor network devices
 View bandwidth utilization
@@ -150,18 +151,20 @@ ServiceNow
 Jira
 Intended Users
 
-Blue Swan is designed for:
+# Blue Swan is designed for:
 
-Security Operations Centers (SOC)
-Managed Security Service Providers (MSSPs)
-Enterprise IT teams
-Government agencies
-Educational institutions
-Financial organizations
-Healthcare providers
-Cloud administrators
-DevSecOps teams
-Cybersecurity researchers conducting authorized defensive work
+* Security Operations Centers (SOC)
+* Managed Security Service Providers (MSSPs)
+* Enterprise IT teams
+* Government agencies
+* Educational institutions
+* Financial organizations
+* Healthcare providers
+* Cloud administrators
+* DevSecOps teams
+* Cybersecurity researchers conducting authorized defensive work
+
+Blue Swan focuses on helping defenders detect, investigate, and respond to cyber threats while providing secure remote administration, automation, monitoring, and compliance capabilities. It is intended for lawful, authorized security operations and organizational defense.
 
 
 
@@ -178,4 +181,3 @@ cd blue_swan
 python blue_swan.py
 ```
 
-Blue Swan focuses on helping defenders detect, investigate, and respond to cyber threats while providing secure remote administration, automation, monitoring, and compliance capabilities. It is intended for lawful, authorized security operations and organizational defense.\\
