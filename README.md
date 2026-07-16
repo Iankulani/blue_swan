@@ -1,7 +1,18 @@
 # blue_swan
 
 
-<img width="600" height="700" alt="swanx" src="https://github.com/user-attachments/assets/514d9970-bb0d-4b9a-a8df-62b0dfe517f3" />
+<img width="700" height="500" alt="swanx" src="https://github.com/user-attachments/assets/514d9970-bb0d-4b9a-a8df-62b0dfe517f3" />
+
+[![GitHub stars](https://img.shields.io/github/stars/Iankulani/blue_swan?style=for-the-badge&logo=github)](https://github.com/Iankulani/blue_swan/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/Iankulani/blue_swan?style=for-the-badge&logo=github)](https://github.com/Iankulani/blue_swan/network)
+[![GitHub watchers](https://img.shields.io/github/watchers/Iankulani/blue_swan?style=for-the-badge&logo=github)](https://github.com/Iankulani/blue_swan/watchers)
+[![GitHub contributors](https://img.shields.io/github/contributors/Iankulani/blue_swan?style=for-the-badge&logo=github)](https://github.com/Iankulani/blue_swan/graphs/contributors)
+[![GitHub last commit](https://img.shields.io/github/last-commit/Iankulani/blue_swan?style=for-the-badge&logo=git)](https://github.com/Iankulani/blue_swan/commits/main)
+[![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)](LICENSE)
+[![Platform](https://img.shields.io/badge/platform-Linux%20%7C%20Windows%20%7C%20macOS-blue?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/Iankulani/blue_swan)
+[![Python](https://img.shields.io/badge/python-3.x-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Docker](https://img.shields.io/badge/docker-supported-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://docker.com)
+[![AWS](https://img.shields.io/badge/AWS-ready-orange?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com)
 
 Blue Swan is an enterprise-grade cybersecurity platform designed to help organizations monitor, protect, and manage their digital infrastructure from a single unified interface. The platform enables authorized security administrators to remotely perform security operations, monitor infrastructure, investigate incidents, automate defensive workflows, and manage enterprise assets through secure communication channels including Discord, Slack, WhatsApp, Google Chat, iMessage, and a dedicated web application.
 
