@@ -98,7 +98,7 @@ Security Operations
 
 Blue Swan continuously collects security telemetry from authorized systems and correlates events to identify suspicious activity. Analysts can investigate alerts, prioritize incidents, and coordinate response actions through centralized workflows.
 
-Capabilities include:
+# Capabilities include:
 
 Event correlation
 Threat intelligence integration
