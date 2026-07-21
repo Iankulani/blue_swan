@@ -84,33 +84,33 @@ Defensive Administrative Commands
 
 # Blue Swan enables administrators to:
 
-Monitor network devices
-View bandwidth utilization
-Monitor switches and routers
-Track device availability
-Analyze latency
-Monitor DNS health
-Review VPN connectivity
-Monitor cloud networking
-Check SSL certificate expiration
-Review network configuration compliance
-Security Operations
+* Monitor network devices
+* View bandwidth utilization
+* Monitor switches and routers
+* Track device availability
+* Analyze latency
+* Monitor DNS health
+* Review VPN connectivity
+* Monitor cloud networking
+* Check SSL certificate expiration
+* Review network configuration compliance
+* Security Operations
 
 Blue Swan continuously collects security telemetry from authorized systems and correlates events to identify suspicious activity. Analysts can investigate alerts, prioritize incidents, and coordinate response actions through centralized workflows.
 
 # Capabilities include:
 
-Event correlation
-Threat intelligence integration
-IOC management
-MITRE ATT&CK mapping
-Incident timeline creation
-Alert prioritization
-Security dashboards
-Case management
-Digital evidence collection
-Reporting
-Security Awareness
+* Event correlation
+* Threat intelligence integration
+* IOC management
+* MITRE ATT&CK mapping
+* Incident timeline creation
+* Alert prioritization
+* Security dashboards
+* Case management
+* Digital evidence collection
+* Reporting
+* Security Awareness
 
 Blue Swan includes an employee awareness module designed to improve organizational resilience against phishing and other social engineering attacks. Administrators can create authorized training campaigns, measure participation, and review results to strengthen user awareness.
 
