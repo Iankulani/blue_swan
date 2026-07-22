@@ -116,54 +116,54 @@ Blue Swan includes an employee awareness module designed to improve organization
 
 Web Application
 
-The web interface provides:
+# The web interface provides:
 
-Executive dashboard
-Security operations dashboard
-Endpoint inventory
-Network topology
-Incident management
-Asset management
-User administration
-Reporting center
-Policy management
-API management
-Automation workflows
-Security Architecture
+* Executive dashboard
+* Security operations dashboard
+* Endpoint inventory
+* Network topology
+* Incident management
+* Asset management
+* User administration
+* Reporting center
+* Policy management
+* API management
+* Automation workflows
+* Security Architecture
 
-Blue Swan is built using modern security principles:
+# Blue Swan is built using modern security principles:
 
-End-to-end encryption
-Zero Trust architecture
-Role-Based Access Control
-Multi-factor authentication
-Immutable audit logs
-Secure API authentication
-Encrypted communications
-Continuous monitoring
-Secure software update mechanism
-Enterprise Integrations
+* End-to-end encryption
+* Zero Trust architecture
+* Role-Based Access Control
+* Multi-factor authentication
+* Immutable audit logs
+* Secure API authentication
+* Encrypted communications
+* Continuous monitoring
+* Secure software update mechanism
+* Enterprise Integrations
 
-Blue Swan integrates with:
+# Blue Swan integrates with:
 
-Microsoft Active Directory
-Microsoft Entra ID
-Okta
-Google Workspace
-AWS
-Microsoft Azure
+* Microsoft Active Directory
+* Microsoft Entra ID
+* Okta
+* Google Workspace
+* AWS
+* Microsoft Azure
 Google Cloud Platform
-Kubernetes
-Docker
-Splunk
-Elastic
-Microsoft Sentinel
-CrowdStrike
-Microsoft Defender
-VMware
-ServiceNow
-Jira
-Intended Users
+* Kubernetes
+* Docker
+* Splunk
+* Elastic
+* Microsoft Sentinel
+* CrowdStrike
+* Microsoft Defender
+* VMware
+* ServiceNow
+* Jira
+* Intended Users
 
 # Blue Swan is designed for:
 
