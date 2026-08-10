@@ -62,7 +62,7 @@ Every command requires authentication, authorization, and is recorded in immutab
 
 Defensive Administrative Commands
 
-# Blue Swan supports authorized administrative operations such as:
+# Blue Swan supports authorized administrative operations such as
 
 * View endpoint health
 * Check CPU usage
