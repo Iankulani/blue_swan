@@ -1,6 +1,5 @@
 # blue_swan
 
-
 <img width="700" height="500" alt="swanx" src="https://github.com/user-attachments/assets/514d9970-bb0d-4b9a-a8df-62b0dfe517f3" />
 
 [![GitHub stars](https://img.shields.io/github/stars/Iankulani/blue_swan?style=for-the-badge&logo=github)](https://github.com/Iankulani/blue_swan/stargazers)
