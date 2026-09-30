@@ -1,5 +1,8 @@
 # blue_swan
 
+
+<div align="center">
+ 
 <img width="360" height="360" alt="swanx" src="https://github.com/user-attachments/assets/514d9970-bb0d-4b9a-a8df-62b0dfe517f3" />
 
 [![GitHub stars](https://img.shields.io/github/stars/Iankulani/blue_swan?style=for-the-badge&logo=github)](https://github.com/Iankulani/blue_swan/stargazers)
@@ -12,6 +15,8 @@
 [![Python](https://img.shields.io/badge/python-3.x-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Docker](https://img.shields.io/badge/docker-supported-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://docker.com)
 [![AWS](https://img.shields.io/badge/AWS-ready-orange?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com)
+
+</div>
 
 Blue Swan is an enterprise-grade cybersecurity platform designed to help organizations monitor, protect, and manage their digital infrastructure from a single unified interface. The platform enables authorized security administrators to remotely perform security operations, monitor infrastructure, investigate incidents, automate defensive workflows, and manage enterprise assets through secure communication channels including Discord, Slack, WhatsApp, Google Chat, iMessage, and a dedicated web application.
 
